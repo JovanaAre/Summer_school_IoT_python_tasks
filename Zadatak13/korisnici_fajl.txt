@@ -1,0 +1,5 @@
+python@gmail.com,$2b$12$rAXZ0DL5VVauOTPTZ/G6t.feFeqrCH5plkFPD375ogSxGQT.JS.8i,5
+course@gmail.com,$2b$12$e4DL..6qSOJ8.5XGNZhGmeG8R2xN.zWBSh4udiGOXk903.4FdvbDS,5
+at@gmail.com,$2b$12$4Kd9aK4u/wTXKDV9HItO5.ibmQzUC8Ws.264iR2W9FgsfmFKyzmRG,3
+rtrk@gmail.com,$2b$12$RwuYxbnts84uFgdb1.n/m.ELxH4HXONZigNSJuM3FGixMTlJqsSSu,7
+ljetna.praksartrk@gmail.com,$2b$12$961N/jDDy1MJ7M5Ku0gpZeOOywqxeSnF5szWIm0MnelbRNF1G/Z0.,21

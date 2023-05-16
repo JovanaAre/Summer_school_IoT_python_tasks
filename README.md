@@ -1,1 +1,1 @@
-# Riješeni Python zadaci (sa testovima) - IoT (_Ljetna škola 2022_)
+# Riješeni Python zadaci (sa testovima-_pytest_) - IoT (_Ljetna škola 2022_)
